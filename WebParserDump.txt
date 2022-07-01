@@ -1,0 +1,1 @@
+{"enviro":{"temperature":34.65,"pressure":975.85,"altitude":316.09,"light":39,"rgb":{"r":124,"g":98,"b":85},"heading":183.11,"magnetometer":{"mx":-3233,"my":-339,"mz":365},"accelerometer":{"ax":-0.18,"ay":-0.02,"az":1.05},"analog":{"a0":0.507,"a1":0.522,"a2":0.519,"a3":0.528}}}
